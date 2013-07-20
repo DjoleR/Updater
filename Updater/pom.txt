@@ -1,0 +1,58 @@
+<li>
+											<a href = "../files/insz.pdf"><img src = "images/pdf-icon2.png" height="17px" style="margin-left: 5px; margin-top: 3px; margin-right: 10px"></a>insz
+										</li>
+										<li>
+											<a href = "../files/inszi.pdf"><img src = "images/pdf-icon2.png" height="17px" style="margin-left: 5px; margin-right: 10px"></a>inszi
+										</li>
+										<li>
+											<a href = "../files/inszm.pdf"><img src = "images/pdf-icon2.png" height="17px" style="margin-left: 5px; margin-right: 10px"></a>inszm
+										</li>
+										
+
+
+<li class="royalSlide">
+													<div class="centeredSlide">
+														<p>
+															<strong>Webinar: Hype or Not: </strong>Moving Manufacturing to the Cloud July 11, 2013
+														</p>
+													</div>
+												</li>
+
+												<li class="royalSlide">
+													<div class="centeredSlide">
+														<p>
+															<strong>Live Product Demo: </strong>NetSuite for Advertising Companies July 16, 2013
+														</p>
+													</div>
+												</li>
+
+												<li class="royalSlide">
+													<div class="centeredSlide">
+														<p>
+															<strong>White Paper:</strong>The Benefits of Running Your Entire Business on One System
+														</p>
+													</div>
+												</li>
+
+												<li class="royalSlide">
+													<div class="centeredSlide">
+														<p>
+															<strong>Press Release:</strong>NetSuite Announces Timing of Second Quarter 2013 Financial Results
+														</p>
+													</div>
+												</li>
+
+												<li class="royalSlide">
+													<div class="centeredSlide">
+														<p>
+															<strong>Press Release:</strong>Far Eastern University Takes Higher Education to the Cloud with NetSuite
+														</p>
+													</div>
+												</li>
+												<li class="royalSlide">
+													<div class="centeredSlide">
+														<p>
+															<strong>Press Release:</strong>Far Eastern University Takes Higher Education to the Cloud with NetSuite
+														</p>
+													</div>
+												</li>
