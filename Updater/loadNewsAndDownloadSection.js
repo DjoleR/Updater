@@ -1,5 +1,5 @@
 function loadDownloadSection(){
-document.getElementById("DownloadSection").innerHTML = "<li><a href ='../files/nz1.pdf'><img src = 'images/pdf-icon2.png' height='17px' style='margin-left: 5px; margin-top: 3px; margin-right: 10px'></a>NZ-1    <blink style = 'color: #1D5377; text-decoration: blink'>new!!!</blink></li><li><a href ='../files/mun.pdf'><img src = 'images/pdf-icon2.png' height='17px' style='margin-left: 5px; margin-top: 3px; margin-right: 10px'></a>M-UN</li><li><a href ='../files/m4k.pdf'><img src = 'images/pdf-icon2.png' height='17px' style='margin-left: 5px; margin-top: 3px; margin-right: 10px'></a>M4K</li>";
+document.getElementById("DownloadSection").innerHTML = "<li><a href ='../files/nz1.pdf'><img src = 'images/pdf-icon2.png' height='17px' style='margin-left: 5px; margin-top: 3px; margin-right: 10px'></a>NZ-1<font style = 'color: #FF8C00; padding-left: 100px'>NEW</font></li><li><a href ='../files/mun.pdf'><img src = 'images/pdf-icon2.png' height='17px' style='margin-left: 5px; margin-top: 3px; margin-right: 10px'></a>M-UN</li><li><a href ='../files/m4k.pdf'><img src = 'images/pdf-icon2.png' height='17px' style='margin-left: 5px; margin-top: 3px; margin-right: 10px'></a>M4K</li>";
 }
 
 function loadNewsSection(){

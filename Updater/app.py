@@ -45,7 +45,7 @@ except (IOError):
 import os, datetime
 from time import time
 
-blinkFeature = "    <blink style = 'color: #1D5377; text-decoration: blink'>new!!!</blink>"
+blinkFeature = "<font style = 'color: #FF8C00; padding-left: 100px'>NEW</font>"
 
 g.write("function loadDownloadSection(){\n")
 
